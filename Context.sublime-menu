@@ -1,0 +1,20 @@
+[
+  {
+    "caption": "-"
+  },
+  {
+    "command": "svn_update", 
+    "args": {}, 
+    "caption": "SVN Update"
+  }, 
+  {
+    "command": "svn_commit", 
+    "args": {}, 
+    "caption": "SVN Commit"
+  }, 
+  {
+    "command": "svn_diff", 
+    "args": {}, 
+    "caption": "SVN Diff"
+  }
+]
